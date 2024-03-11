@@ -1,0 +1,12 @@
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.visited{
+    background-color: rgba(41, 156, 41, 0.541);
+}
+.Non-visited{
+    background-color: rgba(221, 77, 77, 0.61);
+}
