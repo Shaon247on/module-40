@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>React World Toru</h1>
+      <h1>React Awesone World Toru!</h1>
       <Countries></Countries>
     </>
   )
